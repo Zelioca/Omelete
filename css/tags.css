@@ -1,0 +1,64 @@
+
+@font-face {
+    font-family: "YoungSerif";
+    src: url(../assets/fonts/young-serif/YoungSerif.ttf)
+  }
+
+@font-face {
+    font-family: "Outfit";
+    src: url(../assets/fonts/outfit/Outfit.ttf);
+}
+
+body {
+    background-color: hsl(30, 54%, 90%);
+    text-align: center;
+}
+
+h1, h2, h3, p, li {
+    text-align: left;
+}
+
+p, li, h3, td, .laranja {
+    color: hsl(30, 10%, 34%);
+    font-family: Outfit;
+}
+
+h1, h2{
+    font-family: YoungSerif;
+    font-weight: normal;
+}
+
+h1 {
+    text-align: left;
+    color: hsl(24, 5%, 18%)
+}
+
+h2, .laranja{
+    color: hsl(14, 45%, 36%);
+}
+
+h3 {
+    color: hsl(332, 51%, 32%);
+}
+
+img {
+    max-width: 95%;
+    border-radius: 20px;
+    padding-top: 5px;
+}
+
+li {
+    padding: 7px 0 7px 30px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px auto;
+  }
+  
+td {
+    border-top: 1px solid hsl(30, 18%, 87%);
+    padding: 15px 0;
+    text-align: left;
+  }
