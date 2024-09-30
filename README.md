@@ -1,5 +1,6 @@
 Este site foi minha primeira criação, eu criei ele apenas para ver oque eu ja sabia, e eu descobri que eu ja sabia bastante coisa, não muita, mas bastante.
 Ele foi criado graças a equipe do FrontEndMentor, com o desafio da "Recipe Page", não ficou 100%, mas tentei, esse foi o resultado e espero que eu consiga fazer mais depois.
+Voçe pode ver o design do site aqui: https://zelioca.github.io/Omelete/.
 
 
 # Frontend Mentor - Recipe page
